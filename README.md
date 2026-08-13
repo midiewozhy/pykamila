@@ -25,7 +25,7 @@ This package is a Python implementation based on:
 pip install pykamila
 
 # From source (development mode)
-git clone [https://github.com/miediewozhy/pykamila.git](https://github.com/miediewozhy/pykamila.git)
+git clone [https://github.com/midiewozhy/pykamila.git](https://github.com/midiewozhy/pykamila.git)
 cd pykamila
 pip install -e .
 ```
@@ -100,11 +100,11 @@ Optionally, you can also cite this Pyhong implementation:
 
 ```
 @misc{pykamila,
-  author = {Your Name},
+  author = {Marshal Hong Yuan Zhu},
   title = {pykamila: A Python implementation of the KAMILA clustering algorithm},
   year = {2025},
   publisher = {GitHub},
-  url = {[https://github.com/miediewozhy/pykamila](https://github.com/mieidewozhy/pykamila)}
+  url = {[https://github.com/midiewozhy/pykamila](https://github.com/midiewozhy/pykamila)}
 }
 ```
 
@@ -133,4 +133,4 @@ Special thanks to the original authors (Alex Foss, Marianthi Markatou, Bonnie Ra
 For questions or suggestions, please reach out via:
 
 - Email: marshal.hy.zhu@gmail.com
-- GitHub Issues: https://github.com/miediewozhy/pykamila/issues
+- GitHub Issues: https://github.com/midiewozhy/pykamila/issues
