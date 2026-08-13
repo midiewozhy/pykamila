@@ -1,1 +1,3 @@
 .venv
+dist
+pykamila.egg-info
