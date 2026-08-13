@@ -1,7 +1,7 @@
 import numpy as np
 import math
 from typing import Tuple
-from _kde import KernelDensityEstimator
+from ._kde import KernelDensityEstimator
 
 def distance_to_centroids(
     X: np.ndarray,

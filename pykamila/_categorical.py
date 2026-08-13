@@ -1,6 +1,6 @@
 import numpy as np
 from typing import Tuple
-from _kde import MultinomialProbabilityEstimator
+from ._kde import MultinomialProbabilityEstimator
 
 
 def multinomial_probability(
