@@ -60,6 +60,7 @@ pip install -e .
 ## Methods
 
 > fit(X, con_idx, scales = None): Fits the model to dataset X using continuous column indices con_idx(a numpy array)
+
 > predict(X): Predicts cluster assignments for new data X.
 
 ---
