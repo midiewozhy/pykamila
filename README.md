@@ -25,7 +25,7 @@ This package is a Python implementation based on:
 pip install pykamila
 
 # From source (development mode)
-git clone [https://github.com/midiewozhy/pykamila.git](https://github.com/midiewozhy/pykamila.git)
+git clone https://github.com/midiewozhy/pykamila.git
 cd pykamila
 pip install -e .
 ```
@@ -48,7 +48,7 @@ pip install -e .
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| n_cluster | int | Number of clusters |
+| n_clusters | int | Number of clusters |
 | con_init | str | Initialization for continuous centroids ('default' or 'kmeans++') |
 | cat_init | str | Initialization for categorical parameters ('default') |
 | n_init | int | Number of random initialization |
@@ -97,7 +97,7 @@ If you use this package, please cite the orginal paper:
 }
 ```
 
-Optionally, you can also cite this Pyhong implementation:
+Optionally, you can also cite this Python implementation:
 
 ```
 @misc{pykamila,
