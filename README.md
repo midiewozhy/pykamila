@@ -67,7 +67,7 @@ pip install -e .
 
 ## Validation
 
-This implementation reproduces the original paper's simulation results for p-generalized distribution across multiple overlap configurations. Below is part of the validation result.
+This implementation reproduces the original paper's simulation results for p-generalized distribution (kurtosis = 6) across multiple overlap configurations. Below is part of the validation result.
 
 | Categorical Overlap | Continuous Overlap | ARI Mean | ARI Std |
 | --- | --- | --- | --- |
@@ -103,7 +103,7 @@ Optionally, you can also cite this Pyhong implementation:
 @misc{pykamila,
   author = {Marshal Hong Yuan Zhu},
   title = {pykamila: A Python implementation of the KAMILA clustering algorithm},
-  year = {2025},
+  year = {2026},
   publisher = {GitHub},
   url = {[https://github.com/midiewozhy/pykamila](https://github.com/midiewozhy/pykamila)}
 }
